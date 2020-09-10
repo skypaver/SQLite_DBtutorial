@@ -1,2 +1,2 @@
 # SQLite_DBtutorial
-a repo for learning how a database 
+a repo for self-learning how does a database work
